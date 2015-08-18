@@ -10,20 +10,20 @@ This repository serves various purposes:
 - Organize work on the project.
 - Present obtained results.
 
-## Repository structure
+## Repository Structure
 
-The content of this repository are separated in two folders:
+The content of this repository is structured as follows:
 
-- `share/` contains all the shared stuff. Anything you add here should be part
-  of a pull requests against the main repository.
+- `ideas/` contains all idea proposals as markdown files (see below for more
+  details).
 - `local/` is for personal use and should only be pushed to your fork. Use it
   for prototyping, notes or whatever. If it makes sense you can move files over
-  to `share/` and open a pull request. Therefore it is recommended to keep a
-  folder structure similar to the one under `share/`.
+  to other folders and open a pull request. Therefore it is recommended to keep
+  a folder structure similar to the root directory.
 
-## Proposing ideas
+## Proposing Ideas
 
-To propose an idea you need to create a document in the folder `share/ideas/`
+To propose an idea you need to create a document in the folder `ideas/`
 containing basic info:
 
 - short description of the idea
@@ -32,12 +32,12 @@ containing basic info:
 - involved technologies
 - possible follow-up or spin-off projects
 
-The file name should consist of the date and a short title, e.g.
+The file name should consist of the current date and a short title, e.g.
 `2015-08-18-activity-dashboard.md`. To get started just copy the template
-file `share/ideas/TEMPLATE.md`:
+file `ideas/TEMPLATE.md`:
 
 ```
-$ cp ./share/ideas/TEMPLATE.md ./share/ideas/2015-08-18-activity-dashboard.md
+$ cp ./ideas/TEMPLATE.md ./ideas/2015-08-18-activity-dashboard.md
 ```
 
 Then open a pull request to discuss this idea with the team. Once accepted
