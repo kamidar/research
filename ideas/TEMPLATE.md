@@ -1,16 +1,16 @@
-# Idea Template
+# Idea Proposal: Template
 
 *Describe your idea in a few generic sentences.*
-
-## Steps & Tasks
-
-*A simple bullet list of the envisioned steps and tasks.*
 
 ## Expected Outcomes and Possible Results
 
 *What you think will be achieved by implementing this idea.*
 
-## Topics and Technologies
+## Steps & Tasks
+
+*A simple bullet list of the envisioned steps and tasks.*
+
+## Topics & Technologies
 
 *In case you have some topics, technologies, tools or frameworks in mind.*
 
