@@ -18,3 +18,4 @@
 
 - [jq - Command-line JSON processor](https://github.com/stedolan/jq)
 - [Miller - sed, awk, cut, join & sort for name-indexed data](https://github.com/johnkerl/miller)
+- [q - execution of SQL-like queries on CSVs/TSVs](https://github.com/harelba/q)
