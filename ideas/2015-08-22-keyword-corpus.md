@@ -1,4 +1,4 @@
-# Idea Proposal: Template
+# Idea Proposal: Create a corpus for international development
 
 *We have over a million documents across Devex ranging from profiles to jobs, procurement and organizations.  A central insight that differentiates us from any competitor is a deep understanding of the keywords and keyword relationships that are critical to and unique within development.  The task here is to leverage machine learning to extract those keywords from our documents and organize them in a way that can be useful both within our platform and, more broadly, to the industry.  As a first step, we could focus on one type of keyword: organization name.*
 
